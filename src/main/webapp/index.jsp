@@ -7,6 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<style></style>
 </head>
 <body>
 <a href="addUser.jsp"><button>Add User</button></a>
